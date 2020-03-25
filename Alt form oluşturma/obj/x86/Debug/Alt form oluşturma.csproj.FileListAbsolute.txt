@@ -1,0 +1,23 @@
+C:\Users\ncfkr1\Desktop\ \C#\Alt form oluşturma\Alt form oluşturma\bin\Debug\Alt form oluşturma.exe
+C:\Users\ncfkr1\Desktop\ \C#\Alt form oluşturma\Alt form oluşturma\bin\Debug\Alt form oluşturma.pdb
+C:\Users\ncfkr1\Desktop\ \C#\Alt form oluşturma\Alt form oluşturma\obj\x86\Debug\Alt_form_oluşturma.Form1.resources
+C:\Users\ncfkr1\Desktop\ \C#\Alt form oluşturma\Alt form oluşturma\obj\x86\Debug\Alt_form_oluşturma.Properties.Resources.resources
+C:\Users\ncfkr1\Desktop\ \C#\Alt form oluşturma\Alt form oluşturma\obj\x86\Debug\Alt form oluşturma.csproj.GenerateResource.Cache
+C:\Users\ncfkr1\Desktop\ \C#\Alt form oluşturma\Alt form oluşturma\obj\x86\Debug\Alt form oluşturma.exe
+C:\Users\ncfkr1\Desktop\ \C#\Alt form oluşturma\Alt form oluşturma\obj\x86\Debug\Alt form oluşturma.pdb
+G:\03 Cloud\04 - Github - Akademi\01 - C# Form Projeleri\01 - MDI Form Oluşturma\Alt form oluşturma\obj\x86\Debug\Alt form oluşturma.exe
+G:\03 Cloud\04 - Github - Akademi\01 - C# Form Projeleri\01 - MDI Form Oluşturma\Alt form oluşturma\obj\x86\Debug\Alt form oluşturma.pdb
+G:\03 Cloud\04 - Github - Akademi\01 - C# Form Projeleri\01 - MDI Form Oluşturma\Alt form oluşturma\bin\Debug\Alt form oluşturma.exe
+G:\03 Cloud\04 - Github - Akademi\01 - C# Form Projeleri\01 - MDI Form Oluşturma\Alt form oluşturma\bin\Debug\Alt form oluşturma.pdb
+G:\03 Cloud\04 - Github - Akademi\01 - C# Form Projeleri\01 - MDI Form Oluşturma\Alt form oluşturma\obj\x86\Debug\Alt_form_oluşturma.Form1.resources
+G:\03 Cloud\04 - Github - Akademi\01 - C# Form Projeleri\01 - MDI Form Oluşturma\Alt form oluşturma\obj\x86\Debug\Alt_form_oluşturma.Properties.Resources.resources
+G:\03 Cloud\04 - Github - Akademi\01 - C# Form Projeleri\01 - MDI Form Oluşturma\Alt form oluşturma\obj\x86\Debug\Alt form oluşturma.csproj.GenerateResource.Cache
+G:\OneDrive\03 Software\02 Github Projects\01 C# Form Projeleri\Form 01 - Mdı Form Oluşturma\Alt form oluşturma\bin\Debug\Alt form oluşturma.exe
+G:\OneDrive\03 Software\02 Github Projects\01 C# Form Projeleri\Form 01 - Mdı Form Oluşturma\Alt form oluşturma\bin\Debug\Alt form oluşturma.pdb
+G:\OneDrive\03 Software\02 Github Projects\01 C# Form Projeleri\Form 01 - Mdı Form Oluşturma\Alt form oluşturma\obj\x86\Debug\Alt form oluşturma.csprojAssemblyReference.cache
+G:\OneDrive\03 Software\02 Github Projects\01 C# Form Projeleri\Form 01 - Mdı Form Oluşturma\Alt form oluşturma\obj\x86\Debug\Alt_form_oluşturma.AltForm.resources
+G:\OneDrive\03 Software\02 Github Projects\01 C# Form Projeleri\Form 01 - Mdı Form Oluşturma\Alt form oluşturma\obj\x86\Debug\Alt_form_oluşturma.Form1.resources
+G:\OneDrive\03 Software\02 Github Projects\01 C# Form Projeleri\Form 01 - Mdı Form Oluşturma\Alt form oluşturma\obj\x86\Debug\Alt_form_oluşturma.Properties.Resources.resources
+G:\OneDrive\03 Software\02 Github Projects\01 C# Form Projeleri\Form 01 - Mdı Form Oluşturma\Alt form oluşturma\obj\x86\Debug\Alt form oluşturma.csproj.GenerateResource.cache
+G:\OneDrive\03 Software\02 Github Projects\01 C# Form Projeleri\Form 01 - Mdı Form Oluşturma\Alt form oluşturma\obj\x86\Debug\Alt form oluşturma.exe
+G:\OneDrive\03 Software\02 Github Projects\01 C# Form Projeleri\Form 01 - Mdı Form Oluşturma\Alt form oluşturma\obj\x86\Debug\Alt form oluşturma.pdb
